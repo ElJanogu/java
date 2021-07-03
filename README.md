@@ -6,3 +6,6 @@ Download Eclipse :
 
 Es werden lediglich die .java dateien, also der Quellcode hochgeladen.
 In eineigen Fällen müssen wahrscheinlich Klassen von Java neu importiert werden
+
+Weiteres :
+- Vigenere unterstutzt bisher nur Großbuchstaben
